@@ -1,9 +1,10 @@
 {
-  "name": "",
-  "description": "",
+  "name": "Quotes4You",
+  "description": "Have you ever wanted to get a daily quote personalized ",
   "version": "1.0",
-  "manifest_version": 2,
+  "manifest_version": 3,
   "author": "Elisha White",
   "browser_action": {"default_popup": "extension.html"},
+  "browser_action": {"default_icon": "tab-icon.png", "default_title": "Have a good day"},
   "permissions": ["activeTab"]
 }
