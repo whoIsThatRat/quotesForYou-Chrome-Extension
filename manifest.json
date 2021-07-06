@@ -5,6 +5,6 @@
   "manifest_version": 3,
   "author": "Elisha White",
   "browser_action": {"default_icon": "tab-icon.png","default_title": "Have a good day"},
-  "chrome_url_overrides" : {"newtab": "newtab.html"},
+  "chrome_url_overrides" : {"newtab": "extension.html"},
   "permissions": ["activeTab"]
 }
