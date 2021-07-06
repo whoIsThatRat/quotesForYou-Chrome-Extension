@@ -5,6 +5,6 @@
   "manifest_version": 2,
   "author": "Elisha White",
   "browser_action": {"default_popup": "extension.html"},
-  "browser_action": {"default_icon": "https://i.natgeofe.com/n/f0dccaca-174b-48a5-b944-9bcddf913645/01-cat-questions-nationalgeographic_1228126.jpg", "default_title": "Have a good day"},
+  "browser_action": {"default_icon": "https://ychef.files.bbci.co.uk/976x549/p07ryyyj.jpg", "default_title": "Have a good day"},
   "permissions": ["activeTab"]
 }
