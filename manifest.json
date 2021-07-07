@@ -17,5 +17,11 @@
     }
   },
   "chrome_url_overrides" : {  "newtab": "extension.html"},
-  "permissions": ["activeTab"]
+  "permissions": ["activeTab"],
+   "content_scripts": [
+     {
+       "matches": ["chrome://newtab"],
+       "js": ["removeDoodle.js"]
+     }
+ ],
 }
