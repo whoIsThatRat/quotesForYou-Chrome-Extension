@@ -23,5 +23,5 @@
        "matches": ["chrome://newtab"],
        "js": ["removeDoodle.js"]
      }
- ],
+ ]
 }
