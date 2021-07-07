@@ -4,6 +4,6 @@
   "version": "1.0",
   "manifest_version": 2,
   "author": "Elisha White",
-  "page_action": {"default_icon": "iconPicture.png", "default_title": "Have a good day"},
+  "page_action": {"default_icon": "iconPicture.png", "default_title": "Have a good day", "icons": {}},
   "permissions": ["activeTab"]
 }
