@@ -16,5 +16,6 @@
       "128": "iconPicture128.png"
     }
   },
+  "chrome_url_overrides" : {  "newtab": "extension.html"},
   "permissions": ["activeTab"]
 }
