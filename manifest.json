@@ -6,12 +6,11 @@
   "author": "Elisha White",
   "default_locale": "en",
   "action": {
-    
     "default_icon": {
       "19": "iconPicture19.png", 
       "38": "iconPicture38.png"
     }, 
-    "default_popup": "extension.html",
+    
     "default_title": "Have a good day",
     "icons": {
       "16": "iconPicture16.png",
