@@ -2,9 +2,10 @@
   "name": "Quotes4You",
   "description": "Have you ever wanted to get a daily quote personalized ",
   "version": "1.0",
-  "manifest_version": 2,
+  "manifest_version": 3,
   "author": "Elisha White",
-  "page_action": {
+  "default_locale": "en",
+  "action": {
     "default_icon": {
       "19": "iconPicture19.png", 
       "38": "iconPicture38.png"
@@ -17,11 +18,5 @@
     }
   },
   "chrome_url_overrides" : {  "newtab": "extension.html"},
-  "permissions": ["activeTab"],
-   "content_scripts": [
-     {
-       "matches": ["chrome://newtab"],
-       "js": ["removeDoodle.js"]
-     }
- ]
+  "permissions": ["activeTab"]
 }
