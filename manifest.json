@@ -4,6 +4,17 @@
   "version": "1.0",
   "manifest_version": 2,
   "author": "Elisha White",
-  "page_action": {"default_icon": {"19": "iconPicture19.png", "38": "iconsPicture38.png"}, "default_title": "Have a good day", "icons": {"16": "iconPicture16.png", "48": "iconPicture48.png", "128": "iconPicture128.png"}},
+  "page_action": {
+    "default_icon": {
+      "19": "iconPicture19.png", 
+      "38": "iconPicture38.png"
+    }, 
+    "default_title": "Have a good day",
+    "icons": {
+      "16": "iconPicture16.png",
+      "48": "iconPicture48.png", 
+      "128": "iconPicture128.png"
+    }
+  },
   "permissions": ["activeTab"]
 }
