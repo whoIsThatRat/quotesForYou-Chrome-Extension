@@ -7,15 +7,15 @@
   "action": {
     "default_locale": "en",
     "default_icon": {
-      "19": "iconPicture19.png", 
-      "38": "iconPicture38.png"
+      "19": "5_iconPicture19.png", 
+      "38": "6_iconPicture38.png"
     }, 
     "default_popup": "extension.html",
     "default_title": "Have a good day",
     "icons": {
-      "16": "iconPicture16.png",
-      "48": "iconPicture48.png", 
-      "128": "iconPicture128.png"
+      "16": "4_iconPicture16.png",
+      "48": "7_iconPicture48.png", 
+      "128": "8_iconPicture128.png"
     }
   },
   "chrome_url_overrides" : {  "newtab": "extension.html"},
